@@ -1,2 +1,2 @@
 # myportfolio
- https://mdrafsan12.github.io/name/
+ https://mdrafsan12.github.io/my/
